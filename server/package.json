@@ -1,0 +1,27 @@
+{
+  "name": "confisci",
+  "version": "1.0.0",
+  "description": "an app for conference schedule",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirtrekker/Confisci.git"
+  },
+  "keywords": [
+    "ionic",
+    "angularjs",
+    "conference",
+    "mobile",
+    "app"
+  ],
+  "author": "Nasir Uddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nasirtrekker/Confisci/issues"
+  },
+  "homepage": "https://github.com/nasirtrekker/Confisci#readme"
+}
